@@ -1,0 +1,9 @@
+com\marker\configuration\AppInitializer.class
+com\marker\controller\AppController.class
+com\marker\configuration\HibernateConfiguration.class
+com\marker\model\MarkerData.class
+com\marker\service\MarkerService.class
+com\marker\dao\MarkerDao.class
+com\marker\configuration\AppConfig.class
+com\marker\dao\MarkerDaoImpl.class
+com\marker\service\MarkerServiceImpl.class
